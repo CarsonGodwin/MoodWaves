@@ -2,11 +2,10 @@
 
 > Created By:
 
-1. Wills Edgar - Lead Developer
-2. Carson Godwin - Project Manager
+1. Carson Godwin - Project Manager
+2. Wills Edgar - Lead Developer
 3. Anna Burgess - Developer
 4. Sam Huff - Developer
-5. Taylor Morabito - Developer
 
 ## Prerequisites
 

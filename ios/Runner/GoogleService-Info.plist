@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>API_KEY</key>
-	<string>AIzaSyAKEJ_XrgLUvnlR_XFxQ_gtlf1DUIU40HU</string>
 	<key>GCM_SENDER_ID</key>
 	<string>448797205170</string>
 	<key>PLIST_VERSION</key>
@@ -24,7 +22,6 @@
 	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
-	<key>GOOGLE_APP_ID</key>
-	<string>1:448797205170:ios:fe0ad617b3fef6183c5fab</string>
+
 </dict>
 </plist>
